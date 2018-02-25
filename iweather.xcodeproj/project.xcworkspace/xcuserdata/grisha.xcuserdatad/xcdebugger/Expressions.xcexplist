@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CoreDataStore.newCity():CoreDataStore.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "managedObjectContext">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddPresentationTransition.animateTransition(using:):AddPresentationTransition.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "20 + toViewFrame.size.height / 2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddPresenter.saveAddActionWithName(_:):AddPresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "addInteractor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CityInteractor.findCities():CityInteractor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CityPresenter.addNewCity():CityPresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cityWireframe">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CityViewController.didTapAddButton():CityViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventHandler">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddInteractor.saveNewCityWithName(_:):AddInteractor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "addDataManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddDataManager.addNewCity(_:):AddDataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newEntry.name = city.name">
+            </PersistentString>
+            <PersistentString
+               value = "city.name">
+            </PersistentString>
+            <PersistentString
+               value = "dataStore">
+            </PersistentString>
+            <PersistentString
+               value = "newEntry.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CityWireframe.presentCityInterfaceFromController(_:):CityWireframe.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cityPresenter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherViewController.didTapShowCities():WeatherViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventHandler">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherWireframe.presentWeatherInteraceFromViewController(_:_:):WeatherWireframe.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weatherPresenter">
+            </PersistentString>
+            <PersistentString
+               value = "weatherViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherViewController.updateViewForCity(_:):WeatherViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "label?.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.cityLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherViewController.viewDidLoad():WeatherViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventHandler?.city?.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CityWireframe.presentWeatherInterface(_:):CityWireframe.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "watherWireframe">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
