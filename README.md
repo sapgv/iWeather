@@ -1,6 +1,6 @@
 # iWeather
 
-Weather app based on openweathermap API. You can add your city location and watch the weather.
+Weather app based on openweathermap API. You can add your city location and watch the weather. App includes hourly and daily weather forecasts.
 
 startup             |  search location             |  watch weather
 :-------------------------:|:-------------------------:|:-------------------------:
