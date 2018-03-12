@@ -130,6 +130,7 @@ extension WeatherViewController {
         self.humidityLabel.text = ""
         
         forecastsHourly = []
+        forecastsDaily = []
     }
     
     //MARK: - Collection View
